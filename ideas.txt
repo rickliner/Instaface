@@ -1,0 +1,28 @@
+Instaface!
+
+posts -- can have multiple photos and/or videos
+stories
+pictures
+videos
+likes
+comments
+tags
+ads "sponsored content"
+messaging
+account profile
+follows
+
+PHOTO
+Image -  jpg,png, whatever, let's just make this a class for someone else to implement
+location
+tags
+timestamp
+
+VIDEO
+Videofile - ??? make an intern do this class
+location
+tags
+timestamp
+length in seconds
+
+
